@@ -34,3 +34,10 @@ chmod 444 ori_bdd+new/labels/*
 chmod 444 ori_bdd+new/images/*
 chmod 444 imp_bdd+new/labels/*
 chmod 444 imp_bdd+new/images/*
+
+find . -type d -exec chmod 555 {} \;
+find . -type f -exec chmod 444 {} \;
+find . -exec chown irh-share {} \;
+chmod 555 create_dir.sh
+chown -R irh .git
+chmod -R 777 .git

@@ -4,7 +4,7 @@ if len(sys.argv)>3:
 #	print(sys.argv)
 	try:
 		full_path = sys.argv[1]
-		basename = os.path.basename(sys.argv[1]) + sys.argv[3]
+		basename = os.path.splitext(os.path.basename(sys.argv[1]))[0] + sys.argv[3]
 	#	print(full_path,basename)
 		link_path=os.path.join(sys.argv[2],basename)
 		os.symlink(full_path,link_path)
