@@ -1,1 +1,0 @@
-../../new_ori/labels/60.txt

@@ -1,42 +1,43 @@
 #!/bin/bash
 
-find imp/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "both/images/" "_i.jpg" \;
-find ori/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "both/images/" "_o.jpg" \;
+chmod 777 . -R
 
-find imp/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "both/labels/" "_i.txt" \;
-find ori/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "both/labels/" "_o.txt" \;
+[ -e DSA ] || mkdir DSA/images DSA/labels -p
+[ -e DSB ] || mkdir DSB/images DSB/labels -p
+#C IS AN INPUT
+[ -e DSD ] || mkdir DSD/images DSD/labels -p
+#E,F & G ARE INPUT
+[ -e DSH ] || mkdir DSH/images DSH/labels -p
 
-find imp/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "all/images/" "_i.jpg" \;
-find ori/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "all/images/" "_o.jpg" \;
-find new_imp/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "all/images/" "_i.jpg" \;
-find new_ori/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "all/images/" "_o.jpg" \;
+find DSC/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSB/images/" "_i.jpg" \;
+find DSG/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSB/images/" "_o.jpg" \;
 
-find imp/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "all/labels/" "_i.txt" \;
-find ori/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "all/labels/" "_o.txt" \;
-find new_imp/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "all/labels/" "_i.txt" \;
-find new_ori/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "all/labels/" "_o.txt" \;
+find DSC/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSB/labels/" "_i.txt" \;
+find DSG/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSB/labels/" "_o.txt" \;
 
-find imp/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "imp_bdd+new/images/" "_i.jpg" \;
-find ori/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "ori_bdd+new/images/" "_o.jpg" \;
-find new_imp/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "imp_bdd+new/images/" "_i.jpg" \;
-find new_ori/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "ori_bdd+new/images/" "_o.jpg" \;
+find DSC/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSA/images/" "_i.jpg" \;
+find DSG/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSA/images/" "_o.jpg" \;
+find DSE/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSA/images/" "_i.jpg" \;
+find DSF/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSA/images/" "_o.jpg" \;
 
-find imp/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "imp_bdd+new/labels/" "_i.txt" \;
-find ori/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "ori_bdd+new/labels/" "_o.txt" \;
-find new_imp/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "imp_bdd+new/labels/" "_i.txt" \;
-find new_ori/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "ori_bdd+new/labels/" "_o.txt" \;
+find DSC/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSA/labels/" "_i.txt" \;
+find DSG/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSA/labels/" "_o.txt" \;
+find DSE/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSA/labels/" "_i.txt" \;
+find DSF/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSA/labels/" "_o.txt" \;
 
-chmod 444 both/labels/*
-chmod 444 both/images/*
-chmod 444 all/labels/*
-chmod 444 all/images/*
-chmod 444 ori_bdd+new/labels/*
-chmod 444 ori_bdd+new/images/*
-chmod 444 imp_bdd+new/labels/*
-chmod 444 imp_bdd+new/images/*
+find DSC/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSD/images/" "_i.jpg" \;
+find DSG/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSH/images/" "_o.jpg" \;
+find DSE/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSD/images/" "_i.jpg" \;
+find DSF/images/ -type f -name "*.jpg" -exec python3 create_link.py "../../{}" "DSH/images/" "_o.jpg" \;
+
+find DSC/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSD/labels/" "_i.txt" \;
+find DSG/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSH/labels/" "_o.txt" \;
+find DSE/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSD/labels/" "_i.txt" \;
+find DSF/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSH/labels/" "_o.txt" \;
 
 find . -type d -exec chmod 555 {} \;
 find . -type f -exec chmod 444 {} \;
+find . -type l -exec chmod 444 {} \;
 find . -exec chown irh-share {} \;
 chmod 555 create_dir.sh
 chown -R irh .git
