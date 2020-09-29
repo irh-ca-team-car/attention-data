@@ -1,0 +1,2 @@
+/mnt/sd/ROS/src/ros_torch/src/data/DSE/images/0000000099.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSE/images/10.jpg

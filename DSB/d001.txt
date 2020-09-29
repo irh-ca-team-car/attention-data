@@ -1,0 +1,10 @@
+/mnt/sd/ROS/src/ros_torch/src/data/DSC/images/b1c66a42-6f7d68ca.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSG/images/b1c66a42-6f7d68ca.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSC/images/b1c81faa-3df17267.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSG/images/b1c81faa-3df17267.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSC/images/b1c81faa-c80764c5.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSG/images/b1c81faa-c80764c5.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSC/images/b1c9c847-3bda4659.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSG/images/b1c9c847-3bda4659.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSC/images/b1ca2e5d-84cf9134.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSG/images/b1ca2e5d-84cf9134.jpg

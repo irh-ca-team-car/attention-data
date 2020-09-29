@@ -1,0 +1,6 @@
+/mnt/sd/ROS/src/ros_torch/src/data/DSF/images/94.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSF/images/95.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSF/images/96.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSF/images/97.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSF/images/98.jpg
+/mnt/sd/ROS/src/ros_torch/src/data/DSF/images/99.jpg
