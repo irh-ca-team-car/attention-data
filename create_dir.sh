@@ -35,10 +35,15 @@ find DSG/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "
 find DSE/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSD/labels/" "_i.txt" \;
 find DSF/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "DSH/labels/" "_o.txt" \;
 
-find . -type d -exec chmod 555 {} \;
+rm .ipynb_checkpoints -rd
+python3 createlist.py --D "."
+
+find . -mindepth 1 -type d -exec chmod 555 {} \;
 find . -type f -exec chmod 444 {} \;
 find . -type l -exec chmod 444 {} \;
-find . -exec chown irh-share {} \;
+
 chmod 555 create_dir.sh
+chmod 555 create_link.py
+chmod 555 createlist.py
 chown -R irh .git
 chmod -R 777 .git

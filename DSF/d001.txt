@@ -1,0 +1,2 @@
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/0000000099.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/10.jpg

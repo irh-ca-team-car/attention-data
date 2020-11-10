@@ -1,0 +1,11 @@
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/b2f48fc3-f0ddacf0.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSC/images/bf972758-b963f153.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/bf972758-b963f153.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSC/images/c1f8d9b3-438f46c3.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/c1f8d9b3-438f46c3.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSC/images/c44da9b8-5cded201.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/c44da9b8-5cded201.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSC/images/ca6142b4-ef037b5b.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/ca6142b4-ef037b5b.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSC/images/fe194677-e2d2ac8c.jpg
+/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/fe194677-e2d2ac8c.jpg
