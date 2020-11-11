@@ -1,7 +1,7 @@
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/0000000099.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/100.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/102.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/103.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/104.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/105.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSF/images/106.jpg
+DSH/images/0000000099_o.jpg
+DSH/images/100_o.jpg
+DSH/images/102_o.jpg
+DSH/images/103_o.jpg
+DSH/images/104_o.jpg
+DSH/images/105_o.jpg
+DSH/images/106_o.jpg

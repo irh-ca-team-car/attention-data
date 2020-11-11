@@ -1,8 +1,8 @@
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/b2f48fc3-0b8ff39a.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/b2f48fc3-eda0e217.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/b2f48fc3-f0ddacf0.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/bf972758-b963f153.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/c1f8d9b3-438f46c3.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/c44da9b8-5cded201.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/ca6142b4-ef037b5b.jpg
-/mnt/DATA/home/boiscljo/git/ros_torch/src/data/DSG/images/fe194677-e2d2ac8c.jpg
+DSH/images/b2f48fc3-0b8ff39a_o.jpg
+DSH/images/b2f48fc3-eda0e217_o.jpg
+DSH/images/b2f48fc3-f0ddacf0_o.jpg
+DSH/images/bf972758-b963f153_o.jpg
+DSH/images/c1f8d9b3-438f46c3_o.jpg
+DSH/images/c44da9b8-5cded201_o.jpg
+DSH/images/ca6142b4-ef037b5b_o.jpg
+DSH/images/fe194677-e2d2ac8c_o.jpg
