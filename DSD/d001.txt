@@ -1,7 +1,7 @@
-DSD/images/0000000099_i.jpg
-DSD/images/100_i.jpg
-DSD/images/102_i.jpg
-DSD/images/103_i.jpg
-DSD/images/104_i.jpg
-DSD/images/105_i.jpg
-DSD/images/106_i.jpg
+DSP/images/0000000099_i.jpg
+DSP/images/100_i.jpg
+DSP/images/102_i.jpg
+DSP/images/103_i.jpg
+DSP/images/104_i.jpg
+DSP/images/105_i.jpg
+DSP/images/106_i.jpg
