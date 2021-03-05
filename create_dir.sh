@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chmod 777 . -R
+sudo chmod 777 . -R
 
 [ -e DSA ] || mkdir DSA/images DSA/labels -p
 [ -e DSB ] || mkdir DSB/images DSB/labels -p
@@ -38,12 +38,12 @@ find DSF/labels/ -type f -name "*.txt" -exec python3 create_link.py "../../{}" "
 rm .ipynb_checkpoints -rd
 python3 createlist.py --D "."
 
-find . -mindepth 1 -type d -exec chmod 555 {} \;
-find . -type f -exec chmod 444 {} \;
-find . -type l -exec chmod 444 {} \;
+sudo find . -mindepth 1 -type d -exec chmod 555 {} \;
+sudo find . -type f -exec chmod 444 {} \;
+sudo find . -type l -exec chmod 444 {} \;
 
-chmod 555 create_dir.sh
-chmod 555 create_link.py
-chmod 555 createlist.py
-chown -R irh .git
-chmod -R 777 .git
+sudo chmod 555 create_dir.sh
+sudo chmod 555 create_link.py
+sudo chmod 555 createlist.py
+sudo chown -R irh .git
+sudo chmod -R 777 .git

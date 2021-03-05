@@ -2897,4 +2897,3 @@ DSR/images/b90bcbaa-99b962db.jpg
 DSR/images/b90bcbaa-d26f06dc.jpg
 DSR/images/b90ca71f-3cf69251.jpg
 DSR/images/b90cbc2c-4f9a1c58.jpg
-DSR/images/b90d0148-081f5e0b.jpg

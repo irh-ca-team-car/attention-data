@@ -2397,4 +2397,3 @@ DSR/images/b7ab6225-7a1edecd.jpg
 DSR/images/b7abfbea-3067ba7b.jpg
 DSR/images/b7ad4512-145bbccb.jpg
 DSR/images/b7ad4512-5b2510d8.jpg
-DSR/images/b7ad4512-be6f5823.jpg

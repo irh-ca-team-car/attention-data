@@ -1997,4 +1997,3 @@ DSR/images/b6b6fd86-ab4d10f6.jpg
 DSR/images/b6b7800d-bdecc6bc.jpg
 DSR/images/b6b871e8-e0718c93.jpg
 DSR/images/b6b8d59f-e8059575.jpg
-DSR/images/b6b9069a-4908df6a.jpg
