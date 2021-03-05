@@ -1897,4 +1897,3 @@ DSR/images/b674bc13-3e309d54.jpg
 DSR/images/b674bc13-41fca4db.jpg
 DSR/images/b674bc13-8a296606.jpg
 DSR/images/b674bc13-dceb1013.jpg
-DSR/images/b674bc13-f5f68ca6.jpg

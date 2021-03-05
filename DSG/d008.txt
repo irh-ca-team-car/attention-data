@@ -797,4 +797,3 @@ DSR/images/b3be4113-a7c6d89b.jpg
 DSR/images/b3c0357a-10fef986.jpg
 DSR/images/b3c0460d-33d7256d.jpg
 DSR/images/b3c094d3-75cda540.jpg
-DSR/images/b3c21bae-260d0b00.jpg

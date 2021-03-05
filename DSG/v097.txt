@@ -1,3 +1,4 @@
+DSR/images/b26f8762-61cfb033.jpg
 DSR/images/b26f9b1e-09c56a3c.jpg
 DSR/images/b26f9b1e-3e172ced.jpg
 DSR/images/b27098c3-0db780d5.jpg
@@ -3034,7 +3035,6 @@ DSR/images/ba4bcdc5-3d4f7a56.jpg
 DSR/images/ba4bcdc5-fe7847d3.jpg
 DSR/images/ba4bd5ae-583b01d5.jpg
 DSR/images/ba4d05f6-24c9c3cf.jpg
-DSR/images/ba4d05f6-8b126390.jpg
 DSR/images/ba4d05f6-e11a4967.jpg
 DSR/images/ba4e5982-c64a8dfa.jpg
 DSR/images/ba4fbdd7-43dccdf9.jpg

@@ -3297,4 +3297,3 @@ DSR/images/ba36b0a9-6c380330.jpg
 DSR/images/ba37b3d4-a8126899.jpg
 DSR/images/ba3878a5-a6be090b.jpg
 DSR/images/ba3d031c-e85b19e4.jpg
-DSR/images/ba3dc656-c88512cc.jpg
