@@ -42,8 +42,10 @@ sudo find . -mindepth 1 -type d -exec chmod 555 {} \;
 sudo find . -type f -exec chmod 444 {} \;
 sudo find . -type l -exec chmod 444 {} \;
 
-sudo chmod 555 create_dir.sh
-sudo chmod 555 create_link.py
-sudo chmod 555 createlist.py
-sudo chown -R irh .git
+sudo chmod 755 create_dir.sh
+sudo chmod 755 create_link.py
+sudo chmod 755 createlist.py
+sudo chown -R irh:irh .git
+sudo chown -R irh:irh .
+sudo find -maxdepth 1 -type l -exec chmod 755 {} \;
 sudo chmod -R 777 .git
