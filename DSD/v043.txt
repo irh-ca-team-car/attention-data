@@ -1,10 +1,3 @@
-DSD/images/autosave01_02_2012_11_34_47_i.jpg
-DSD/images/autosave01_02_2012_11_35_51_i.jpg
-DSD/images/autosave01_02_2012_11_37_46_i.jpg
-DSD/images/autosave01_02_2012_11_38_41_i.jpg
-DSD/images/autosave01_02_2012_11_39_02_i.jpg
-DSD/images/autosave01_02_2012_11_39_03_i.jpg
-DSD/images/autosave01_02_2012_11_39_10_i.jpg
 DSD/images/autosave01_02_2012_11_39_12_i.jpg
 DSD/images/autosave01_02_2012_11_40_06_i.jpg
 DSD/images/autosave01_02_2012_11_40_34_i.jpg
@@ -57,7 +50,6 @@ DSD/images/autosave01_02_2012_12_00_55_i.jpg
 DSD/images/autosave01_02_2012_12_01_08_i.jpg
 DSD/images/autosave01_02_2012_12_01_19_i.jpg
 DSD/images/autosave01_02_2012_12_01_20_i.jpg
-DSD/images/autosave01_02_2012_12_01_25_i.jpg
 DSD/images/autosave01_02_2012_12_01_42_i.jpg
 DSD/images/autosave01_02_2012_12_02_08_i.jpg
 DSD/images/autosave01_02_2012_12_02_29_i.jpg

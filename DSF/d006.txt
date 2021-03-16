@@ -99,4 +99,3 @@ DSF/images/189.jpg
 DSF/images/19.jpg
 DSF/images/190.jpg
 DSF/images/191.jpg
-DSF/images/192.jpg

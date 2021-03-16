@@ -1,13 +1,3 @@
-DSH/images/bc692855-df958197_o.jpg
-DSH/images/bc6a2a77-88414eb2_o.jpg
-DSH/images/bc6a2a77-e9984397_o.jpg
-DSH/images/bc6a6534-8b519e81_o.jpg
-DSH/images/bc6a6534-e950719c_o.jpg
-DSH/images/bc6da5d0-7ad70fbc_o.jpg
-DSH/images/bc6dd79a-5dbc7538_o.jpg
-DSH/images/bc6dd79a-72832b74_o.jpg
-DSH/images/bc6dd79a-fa684758_o.jpg
-DSH/images/bc709acb-5b7fbd2f_o.jpg
 DSH/images/bc715fc7-41291987_o.jpg
 DSH/images/bc715fc7-70c49d0a_o.jpg
 DSH/images/bc715fc7-87a29be4_o.jpg

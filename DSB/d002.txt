@@ -217,4 +217,3 @@ DSB/images/b200b84e-4a792877_o.jpg
 DSB/images/b200e97a-bf074435_i.jpg
 DSB/images/b200e97a-bf074435_o.jpg
 DSB/images/b20234fd-822029be_i.jpg
-DSB/images/b20234fd-822029be_o.jpg

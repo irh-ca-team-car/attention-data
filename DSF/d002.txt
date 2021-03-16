@@ -31,4 +31,3 @@ DSF/images/127.jpg
 DSF/images/128.jpg
 DSF/images/129.jpg
 DSF/images/13.jpg
-DSF/images/130.jpg

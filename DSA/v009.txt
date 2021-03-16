@@ -1,6 +1,3 @@
-DSA/images/c74a122c-e7005b78_o.jpg
-DSA/images/c74ac556-60f29765_o.jpg
-DSA/images/c74bbe22-ad68f763_o.jpg
 DSA/images/c74bbfcc-5814e80f_o.jpg
 DSA/images/c74c11fc-1f6d4cb3_o.jpg
 DSA/images/c74c11fc-3d608bfa_o.jpg

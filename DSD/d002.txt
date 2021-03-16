@@ -51,4 +51,3 @@ DSD/images/146_i.jpg
 DSD/images/147_i.jpg
 DSD/images/148_i.jpg
 DSD/images/149_i.jpg
-DSD/images/14_i.jpg

@@ -2527,4 +2527,3 @@ DSB/images/b58aff80-4fd89ca0_o.jpg
 DSB/images/b58aff80-a12e3de6_o.jpg
 DSB/images/b58aff80-bea21173_o.jpg
 DSB/images/b58be279-fe1ea9be_o.jpg
-DSB/images/b58d74f7-ba3a38d3_o.jpg

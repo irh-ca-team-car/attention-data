@@ -14,4 +14,3 @@ DSE/images/111.jpg
 DSE/images/112.jpg
 DSE/images/113.jpg
 DSE/images/114.jpg
-DSE/images/115.jpg

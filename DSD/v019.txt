@@ -1,6 +1,3 @@
-DSD/images/b2edfbf5-544c4e6e_i.jpg
-DSD/images/b2edfbf5-e0fc7810_i.jpg
-DSD/images/b2eed8fa-2694b15d_i.jpg
 DSD/images/b2eed8fa-cf59a253_i.jpg
 DSD/images/b2efc911-2ad925b4_i.jpg
 DSD/images/b2f3d83a-1effdb49_i.jpg

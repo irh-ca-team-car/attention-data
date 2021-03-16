@@ -105,4 +105,3 @@ DSD/images/195_i.jpg
 DSD/images/196_i.jpg
 DSD/images/197_i.jpg
 DSD/images/198_i.jpg
-DSD/images/199_i.jpg

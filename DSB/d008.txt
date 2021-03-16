@@ -877,4 +877,3 @@ DSB/images/b2cbf6d8-732b47be_o.jpg
 DSB/images/b2cce432-e17e840e_i.jpg
 DSB/images/b2cce432-e17e840e_o.jpg
 DSB/images/b2cd33bd-a5043d29_i.jpg
-DSB/images/b2cd33bd-a5043d29_o.jpg

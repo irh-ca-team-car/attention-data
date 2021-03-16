@@ -82,4 +82,3 @@ DSF/images/173.jpg
 DSF/images/174.jpg
 DSF/images/175.jpg
 DSF/images/176.jpg
-DSF/images/177.jpg

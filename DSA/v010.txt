@@ -1,6 +1,3 @@
-DSA/images/c6e6f87c-6b32379a_o.jpg
-DSA/images/c6e6f87c-814bdcee_o.jpg
-DSA/images/c6ea1428-223b4063_o.jpg
 DSA/images/c6ebf831-45affcf4_o.jpg
 DSA/images/c6ec3031-9fa4354c_o.jpg
 DSA/images/c6ec3031-cb866ce6_o.jpg

@@ -1,13 +1,6 @@
-DSD/images/2021-01-17_07-06-22-front.mp4.d2514830888540_i.jpg
-DSD/images/2021-01-17_07-06-22-front.mp4.d26214156382700_i.jpg
-DSD/images/2021-01-17_07-06-22-front.mp4.d26351243714431_i.jpg
-DSD/images/2021-01-17_07-06-22-front.mp4.d268341450330834_i.jpg
-DSD/images/2021-01-17_07-06-22-front.mp4.d27623286725029_i.jpg
-DSD/images/2021-01-17_07-06-22-front.mp4.d2768514191602_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d2909126782476_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d292053068325133_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d295692115521976_i.jpg
-DSD/images/2021-01-17_07-06-22-front.mp4.d29635129902235_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d297403000930255_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d29807176418611_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d301883136929091_i.jpg
@@ -37,7 +30,6 @@ DSD/images/2021-01-17_07-06-22-front.mp4.d70412492718442_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d77501092610925_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d8695441032094_i.jpg
 DSD/images/2021-01-17_07-06-22-front.mp4.d98131457211041_i.jpg
-DSD/images/2021-01-17_07-07-23-front.mp4.d10732233699290_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d10899192435499_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d110711440725546_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d11407282259688_i.jpg
@@ -46,7 +38,6 @@ DSD/images/2021-01-17_07-07-23-front.mp4.d1235327718666_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d124511182435_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d13184988310908_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d1320140284110_i.jpg
-DSD/images/2021-01-17_07-07-23-front.mp4.d1402477936696_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d14165236551965_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d14559289809810_i.jpg
 DSD/images/2021-01-17_07-07-23-front.mp4.d1509029993614_i.jpg
@@ -265,7 +256,6 @@ DSD/images/autosave01_02_2012_09_20_15_i.jpg
 DSD/images/autosave01_02_2012_09_20_19_i.jpg
 DSD/images/autosave01_02_2012_09_20_30_i.jpg
 DSD/images/autosave01_02_2012_09_20_33_i.jpg
-DSD/images/autosave01_02_2012_09_20_34_i.jpg
 DSD/images/autosave01_02_2012_09_20_37_i.jpg
 DSD/images/autosave01_02_2012_09_21_24_i.jpg
 DSD/images/autosave01_02_2012_09_21_30_i.jpg
@@ -490,7 +480,6 @@ DSD/images/autosave01_02_2012_12_00_55_i.jpg
 DSD/images/autosave01_02_2012_12_01_08_i.jpg
 DSD/images/autosave01_02_2012_12_01_19_i.jpg
 DSD/images/autosave01_02_2012_12_01_20_i.jpg
-DSD/images/autosave01_02_2012_12_01_25_i.jpg
 DSD/images/autosave01_02_2012_12_01_42_i.jpg
 DSD/images/autosave01_02_2012_12_02_08_i.jpg
 DSD/images/autosave01_02_2012_12_02_29_i.jpg

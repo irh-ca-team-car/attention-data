@@ -31,4 +31,3 @@ DSE/images/127.jpg
 DSE/images/128.jpg
 DSE/images/129.jpg
 DSE/images/13.jpg
-DSE/images/130.jpg

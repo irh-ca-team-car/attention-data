@@ -1,9 +1,3 @@
-DSD/images/b2208b0f-2796a692_i.jpg
-DSD/images/b222c329-5dc8dbf7_i.jpg
-DSD/images/b229488e-e4714bb7_i.jpg
-DSD/images/b22a4d9f-48b2e986_i.jpg
-DSD/images/b22a4d9f-73cc8810_i.jpg
-DSD/images/b22e02cd-6af68e18_i.jpg
 DSD/images/b22f174d-a19c875e_i.jpg
 DSD/images/b22f385b-5d7e5202_i.jpg
 DSD/images/b230132b-ff8f2719_i.jpg

@@ -48,4 +48,3 @@ DSF/images/142.jpg
 DSF/images/143.jpg
 DSF/images/144.jpg
 DSF/images/145.jpg
-DSF/images/146.jpg

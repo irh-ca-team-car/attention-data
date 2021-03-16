@@ -1,5 +1,3 @@
-DSD/images/b38e631d-e2d95e18_i.jpg
-DSD/images/b38f59d4-58f1cff8_i.jpg
 DSD/images/b38f59d4-8dfeca9f_i.jpg
 DSD/images/b38fb69e-5f5f73ae_i.jpg
 DSD/images/b38fb69e-99642683_i.jpg

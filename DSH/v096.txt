@@ -1,14 +1,3 @@
-DSH/images/2021-01-17_06-57-19-front.mp4.d23622644621552_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d241852985418729_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d24234350732308_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d24715266612332_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d248041734523896_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d250232888311946_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d25091142879776_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d252713041822716_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d25426934030519_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d257711535622736_o.jpg
-DSH/images/2021-01-17_06-57-19-front.mp4.d262122349416438_o.jpg
 DSH/images/2021-01-17_06-57-19-front.mp4.d263252000817581_o.jpg
 DSH/images/2021-01-17_06-57-19-front.mp4.d26621614614391_o.jpg
 DSH/images/2021-01-17_06-57-19-front.mp4.d276632954530570_o.jpg
@@ -610,7 +599,6 @@ DSH/images/2021-01-17_07-05-22-front.mp4.d94692920730078_o.jpg
 DSH/images/2021-01-17_07-05-22-front.mp4.d98371743212275_o.jpg
 DSH/images/2021-01-17_07-05-22-front.mp4.d9910899326425_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d102481061722231_o.jpg
-DSH/images/2021-01-17_07-06-22-front.mp4.d10391082112342_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d10732150024870_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d11314819512978_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d126963211512787_o.jpg
@@ -634,7 +622,6 @@ DSH/images/2021-01-17_07-06-22-front.mp4.d2084012070102_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d2217994585545_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d226682492523431_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d226752110625085_o.jpg
-DSH/images/2021-01-17_07-06-22-front.mp4.d22833214127465_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d23201283910950_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d2339120664129_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d23920327029566_o.jpg
@@ -650,7 +637,6 @@ DSH/images/2021-01-17_07-06-22-front.mp4.d2768514191602_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d2909126782476_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d292053068325133_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d295692115521976_o.jpg
-DSH/images/2021-01-17_07-06-22-front.mp4.d29635129902235_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d297403000930255_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d29807176418611_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d301883136929091_o.jpg
@@ -680,7 +666,6 @@ DSH/images/2021-01-17_07-06-22-front.mp4.d70412492718442_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d77501092610925_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d8695441032094_o.jpg
 DSH/images/2021-01-17_07-06-22-front.mp4.d98131457211041_o.jpg
-DSH/images/2021-01-17_07-07-23-front.mp4.d10732233699290_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d10899192435499_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d110711440725546_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d11407282259688_o.jpg
@@ -689,7 +674,6 @@ DSH/images/2021-01-17_07-07-23-front.mp4.d1235327718666_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d124511182435_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d13184988310908_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d1320140284110_o.jpg
-DSH/images/2021-01-17_07-07-23-front.mp4.d1402477936696_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d14165236551965_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d14559289809810_o.jpg
 DSH/images/2021-01-17_07-07-23-front.mp4.d1509029993614_o.jpg
@@ -908,7 +892,6 @@ DSH/images/autosave01_02_2012_09_20_15_o.jpg
 DSH/images/autosave01_02_2012_09_20_19_o.jpg
 DSH/images/autosave01_02_2012_09_20_30_o.jpg
 DSH/images/autosave01_02_2012_09_20_33_o.jpg
-DSH/images/autosave01_02_2012_09_20_34_o.jpg
 DSH/images/autosave01_02_2012_09_20_37_o.jpg
 DSH/images/autosave01_02_2012_09_21_24_o.jpg
 DSH/images/autosave01_02_2012_09_21_30_o.jpg
@@ -1133,7 +1116,6 @@ DSH/images/autosave01_02_2012_12_00_55_o.jpg
 DSH/images/autosave01_02_2012_12_01_08_o.jpg
 DSH/images/autosave01_02_2012_12_01_19_o.jpg
 DSH/images/autosave01_02_2012_12_01_20_o.jpg
-DSH/images/autosave01_02_2012_12_01_25_o.jpg
 DSH/images/autosave01_02_2012_12_01_42_o.jpg
 DSH/images/autosave01_02_2012_12_02_08_o.jpg
 DSH/images/autosave01_02_2012_12_02_29_o.jpg

@@ -1,3 +1,4 @@
+DSB/images/b2f48fc3-eda0e217_o.jpg
 DSB/images/b2f48fc3-f0ddacf0_i.jpg
 DSB/images/b2f48fc3-f0ddacf0_o.jpg
 DSB/images/b2f4a409-36a7d7c9_i.jpg
@@ -3332,7 +3333,6 @@ DSB/images/ba4bcdc5-3d4f7a56_o.jpg
 DSB/images/ba4bcdc5-fe7847d3_o.jpg
 DSB/images/ba4bd5ae-583b01d5_o.jpg
 DSB/images/ba4d05f6-24c9c3cf_o.jpg
-DSB/images/ba4d05f6-8b126390_o.jpg
 DSB/images/ba4d05f6-e11a4967_o.jpg
 DSB/images/ba4e5982-c64a8dfa_o.jpg
 DSB/images/ba4fbdd7-43dccdf9_o.jpg

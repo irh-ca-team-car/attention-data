@@ -1,10 +1,3 @@
-DSD/images/autosave21_01_2013_13_12_41_1_i.jpg
-DSD/images/b1c66a42-6f7d68ca_i.jpg
-DSD/images/b1c81faa-3df17267_i.jpg
-DSD/images/b1c81faa-c80764c5_i.jpg
-DSD/images/b1c9c847-3bda4659_i.jpg
-DSD/images/b1ca2e5d-84cf9134_i.jpg
-DSD/images/b1ca8418-84a133a0_i.jpg
 DSD/images/b1cac6a7-04e33135_i.jpg
 DSD/images/b1cd1e94-26dd524f_i.jpg
 DSD/images/b1cd1e94-549d0bfe_i.jpg

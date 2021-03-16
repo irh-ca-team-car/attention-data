@@ -1,11 +1,3 @@
-DSD/images/autosave01_02_2012_12_00_49_i.jpg
-DSD/images/autosave01_02_2012_12_00_55_i.jpg
-DSD/images/autosave01_02_2012_12_01_08_i.jpg
-DSD/images/autosave01_02_2012_12_01_19_i.jpg
-DSD/images/autosave01_02_2012_12_01_20_i.jpg
-DSD/images/autosave01_02_2012_12_01_25_i.jpg
-DSD/images/autosave01_02_2012_12_01_42_i.jpg
-DSD/images/autosave01_02_2012_12_02_08_i.jpg
 DSD/images/autosave01_02_2012_12_02_29_i.jpg
 DSD/images/autosave01_02_2012_12_02_54_i.jpg
 DSD/images/autosave01_02_2012_12_03_16_i.jpg

@@ -82,4 +82,3 @@ DSE/images/173.jpg
 DSE/images/174.jpg
 DSE/images/175.jpg
 DSE/images/176.jpg
-DSE/images/177.jpg

@@ -1,8 +1,3 @@
-DSA/images/c6921a51-1735be44_o.jpg
-DSA/images/c6921a51-7d615920_o.jpg
-DSA/images/c6921a51-a36f6af9_o.jpg
-DSA/images/c6921a51-c3847215_o.jpg
-DSA/images/c69227ec-e31502fc_o.jpg
 DSA/images/c692ed67-1f8ee968_o.jpg
 DSA/images/c6959e96-3e8a0c43_o.jpg
 DSA/images/c6959e96-6c064011_o.jpg

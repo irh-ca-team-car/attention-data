@@ -99,4 +99,3 @@ DSE/images/189.jpg
 DSE/images/19.jpg
 DSE/images/190.jpg
 DSE/images/191.jpg
-DSE/images/192.jpg

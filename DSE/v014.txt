@@ -1,5 +1,3 @@
-DSE/images/autosave01_02_2012_10_50_55.jpg
-DSE/images/autosave01_02_2012_10_51_43.jpg
 DSE/images/autosave01_02_2012_10_52_02.jpg
 DSE/images/autosave01_02_2012_10_52_12.jpg
 DSE/images/autosave01_02_2012_10_52_19.jpg
@@ -131,7 +129,6 @@ DSE/images/autosave01_02_2012_12_00_55.jpg
 DSE/images/autosave01_02_2012_12_01_08.jpg
 DSE/images/autosave01_02_2012_12_01_19.jpg
 DSE/images/autosave01_02_2012_12_01_20.jpg
-DSE/images/autosave01_02_2012_12_01_25.jpg
 DSE/images/autosave01_02_2012_12_01_42.jpg
 DSE/images/autosave01_02_2012_12_02_08.jpg
 DSE/images/autosave01_02_2012_12_02_29.jpg

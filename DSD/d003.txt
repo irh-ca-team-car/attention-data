@@ -78,4 +78,3 @@ DSD/images/170_i.jpg
 DSD/images/171_i.jpg
 DSD/images/172_i.jpg
 DSD/images/173_i.jpg
-DSD/images/174_i.jpg

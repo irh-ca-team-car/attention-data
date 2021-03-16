@@ -1,10 +1,3 @@
-DSH/images/bfd29575-767314a3_o.jpg
-DSH/images/bfd32194-f4ea20e9_o.jpg
-DSH/images/bfd64d5f-172c9bb5_o.jpg
-DSH/images/bfd64d5f-a12327b4_o.jpg
-DSH/images/bfd64d5f-d141be33_o.jpg
-DSH/images/bfd64d5f-ec05de8b_o.jpg
-DSH/images/bfd64d5f-f98204af_o.jpg
 DSH/images/bfd74a4a-94602dce_o.jpg
 DSH/images/bfdb9d69-9beabbd2_o.jpg
 DSH/images/bfdd9ffd-3943106e_o.jpg

@@ -3407,4 +3407,3 @@ DSB/images/b7b7c088-2fda29df_o.jpg
 DSB/images/b7b89e71-e92f6983_o.jpg
 DSB/images/b7ba2ed7-7f381040_o.jpg
 DSB/images/b7ba8fee-e6a5e940_o.jpg
-DSB/images/b7ba8fee-fcbd00e5_o.jpg

@@ -65,4 +65,3 @@ DSE/images/158.jpg
 DSE/images/159.jpg
 DSE/images/16.jpg
 DSE/images/160.jpg
-DSE/images/161.jpg

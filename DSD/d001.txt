@@ -24,4 +24,3 @@ DSD/images/121_i.jpg
 DSD/images/122_i.jpg
 DSD/images/123_i.jpg
 DSD/images/124_i.jpg
-DSD/images/125_i.jpg

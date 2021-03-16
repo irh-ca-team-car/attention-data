@@ -767,4 +767,3 @@ DSB/images/b29f9214-4846c10c_o.jpg
 DSB/images/b2a0648b-d8e126bc_i.jpg
 DSB/images/b2a0648b-d8e126bc_o.jpg
 DSB/images/b2a0dbe8-85f1894e_i.jpg
-DSB/images/b2a0dbe8-85f1894e_o.jpg

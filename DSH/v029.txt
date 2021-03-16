@@ -1,8 +1,3 @@
-DSH/images/c21ef8aa-cabc5b7a_o.jpg
-DSH/images/c21f174e-57fbb4a3_o.jpg
-DSH/images/c21f174e-63f35244_o.jpg
-DSH/images/c21f174e-c4bbb429_o.jpg
-DSH/images/c21fba09-38039a43_o.jpg
 DSH/images/c21fba09-53381e9a_o.jpg
 DSH/images/c21fba09-8236eb51_o.jpg
 DSH/images/c21fba09-f3c37fc9_o.jpg

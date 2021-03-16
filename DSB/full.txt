@@ -4322,7 +4322,6 @@
 /mnt/DATA/home/public/datasets/attention-data/DSG/images/ba4bcdc5-fe7847d3.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSG/images/ba4bd5ae-583b01d5.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSG/images/ba4d05f6-24c9c3cf.jpg
-/mnt/DATA/home/public/datasets/attention-data/DSG/images/ba4d05f6-8b126390.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSG/images/ba4d05f6-e11a4967.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSG/images/ba4e5982-c64a8dfa.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSG/images/ba4fbdd7-43dccdf9.jpg

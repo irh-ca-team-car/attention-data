@@ -65,4 +65,3 @@ DSF/images/158.jpg
 DSF/images/159.jpg
 DSF/images/16.jpg
 DSF/images/160.jpg
-DSF/images/161.jpg

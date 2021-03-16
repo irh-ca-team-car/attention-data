@@ -1,12 +1,3 @@
-DSA/images/c25f97e6-2007b36c_o.jpg
-DSA/images/c25f97e6-3fe484e6_o.jpg
-DSA/images/c25f97e6-6a4c4ca2_o.jpg
-DSA/images/c261a365-e321c618_o.jpg
-DSA/images/c262c510-15478ba1_o.jpg
-DSA/images/c264943c-5e493c9f_o.jpg
-DSA/images/c265ca04-fe330cbb_o.jpg
-DSA/images/c26620df-69c25d46_o.jpg
-DSA/images/c267da7f-006f108f_o.jpg
 DSA/images/c267da7f-b62da311_o.jpg
 DSA/images/c267da7f-d242db6c_o.jpg
 DSA/images/c2680d40-90d19d17_o.jpg

@@ -1,8 +1,3 @@
-DSA/images/c59c31f2-cdac8cc8_o.jpg
-DSA/images/c59e4f05-5ebe763a_o.jpg
-DSA/images/c5a0ad25-32da84bb_o.jpg
-DSA/images/c5a0ad25-ce65688e_o.jpg
-DSA/images/c5a0d993-3505c5ce_o.jpg
 DSA/images/c5a0d993-a86563c1_o.jpg
 DSA/images/c5a11aec-af855969_o.jpg
 DSA/images/c5a170ce-85355a1b_o.jpg

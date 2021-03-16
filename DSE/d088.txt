@@ -115,23 +115,14 @@ DSE/images/202.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d214289931485.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d215556371903.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d22673188415817.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d22974231665556.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d2317212366187.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d23256696124951.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d2329305018285.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d25021114631526.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d253022159829003.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d25462413910418.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d264631857726913.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d267071504125281.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d267852452910093.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d26882973112734.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d269632505627345.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d27542302496437.jpg
 DSE/images/2021-01-02_07-38-57-front.mp4.d276302306314077.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d288401977214194.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d290472068115942.jpg
-DSE/images/2021-01-02_07-38-57-front.mp4.d29251319912031.jpg
 DSE/images/2021-01-02_07-49-01-front.mp4.d2162315341904.jpg
 DSE/images/2021-01-02_07-49-01-front.mp4.d30527303235445.jpg
 DSE/images/2021-01-02_07-49-01-front.mp4.d3243359606695.jpg
@@ -140,10 +131,7 @@ DSE/images/2021-01-02_07-49-01-front.mp4.d90775593549.jpg
 DSE/images/2021-01-02_07-49-01-front.mp4.d9296153983746.jpg
 DSE/images/2021-01-02_07-49-01-front.mp4.d95163244922300.jpg
 DSE/images/2021-01-02_07-49-01-front.mp4.d96941920515535.jpg
-DSE/images/2021-01-02_07-56-35-front.mp4.d203222558980.jpg
-DSE/images/2021-01-02_07-56-35-front.mp4.d208931547427231.jpg
 DSE/images/2021-01-02_07-56-35-front.mp4.d209005738691.jpg
-DSE/images/2021-01-02_07-56-35-front.mp4.d20968235422857.jpg
 DSE/images/2021-01-02_07-56-35-front.mp4.d215022779515696.jpg
 DSE/images/2021-01-02_07-56-35-front.mp4.d21707206631633.jpg
 DSE/images/2021-01-02_14-17-58-front.mp4.d1558764839.jpg
@@ -1081,7 +1069,6 @@ DSE/images/2021-01-17_07-05-22-front.mp4.d94692920730078.jpg
 DSE/images/2021-01-17_07-05-22-front.mp4.d98371743212275.jpg
 DSE/images/2021-01-17_07-05-22-front.mp4.d9910899326425.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d102481061722231.jpg
-DSE/images/2021-01-17_07-06-22-front.mp4.d10391082112342.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d10732150024870.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d11314819512978.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d126963211512787.jpg
@@ -1105,7 +1092,6 @@ DSE/images/2021-01-17_07-06-22-front.mp4.d2084012070102.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d2217994585545.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d226682492523431.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d226752110625085.jpg
-DSE/images/2021-01-17_07-06-22-front.mp4.d22833214127465.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d23201283910950.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d2339120664129.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d23920327029566.jpg
@@ -1121,7 +1107,6 @@ DSE/images/2021-01-17_07-06-22-front.mp4.d2768514191602.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d2909126782476.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d292053068325133.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d295692115521976.jpg
-DSE/images/2021-01-17_07-06-22-front.mp4.d29635129902235.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d297403000930255.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d29807176418611.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d301883136929091.jpg
@@ -1151,7 +1136,6 @@ DSE/images/2021-01-17_07-06-22-front.mp4.d70412492718442.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d77501092610925.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d8695441032094.jpg
 DSE/images/2021-01-17_07-06-22-front.mp4.d98131457211041.jpg
-DSE/images/2021-01-17_07-07-23-front.mp4.d10732233699290.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d10899192435499.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d110711440725546.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d11407282259688.jpg
@@ -1160,7 +1144,6 @@ DSE/images/2021-01-17_07-07-23-front.mp4.d1235327718666.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d124511182435.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d13184988310908.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d1320140284110.jpg
-DSE/images/2021-01-17_07-07-23-front.mp4.d1402477936696.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d14165236551965.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d14559289809810.jpg
 DSE/images/2021-01-17_07-07-23-front.mp4.d1509029993614.jpg
@@ -1376,7 +1359,6 @@ DSE/images/autosave01_02_2012_09_20_15.jpg
 DSE/images/autosave01_02_2012_09_20_19.jpg
 DSE/images/autosave01_02_2012_09_20_30.jpg
 DSE/images/autosave01_02_2012_09_20_33.jpg
-DSE/images/autosave01_02_2012_09_20_34.jpg
 DSE/images/autosave01_02_2012_09_20_37.jpg
 DSE/images/autosave01_02_2012_09_21_24.jpg
 DSE/images/autosave01_02_2012_09_21_30.jpg
@@ -1502,3 +1484,5 @@ DSE/images/autosave01_02_2012_11_09_22.jpg
 DSE/images/autosave01_02_2012_11_09_25.jpg
 DSE/images/autosave01_02_2012_11_10_08.jpg
 DSE/images/autosave01_02_2012_11_10_17.jpg
+DSE/images/autosave01_02_2012_11_10_48.jpg
+DSE/images/autosave01_02_2012_11_11_00.jpg
