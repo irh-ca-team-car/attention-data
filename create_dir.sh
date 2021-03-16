@@ -2,6 +2,8 @@
 
 sudo chmod 777 . -R
 
+[ "$USER" == "root" ] && USER=$SUDO_USER
+
 [ -e DSA ] || mkdir DSA/images DSA/labels -p
 [ -e DSB ] || mkdir DSB/images DSB/labels -p
 #C IS AN INPUT
@@ -45,7 +47,7 @@ sudo find . -type l -exec chmod 444 {} \;
 sudo chmod 755 create_dir.sh
 sudo chmod 755 create_link.py
 sudo chmod 755 createlist.py
-sudo chown -R irh:irh .git
-sudo chown -R irh:irh .
+sudo chown -R $USER:$USER .git
+sudo chown -R $USER:$USER .
 sudo find -maxdepth 1 -type l -exec chmod 755 {} \;
 sudo chmod -R 777 .git

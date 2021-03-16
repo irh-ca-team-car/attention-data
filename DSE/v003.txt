@@ -1,3 +1,10 @@
+DSE/images/autosave01_02_2012_13_51_33.jpg
+DSE/images/autosave01_02_2012_13_51_36.jpg
+DSE/images/autosave01_02_2012_13_51_51.jpg
+DSE/images/autosave01_02_2012_13_52_53.jpg
+DSE/images/autosave02_10_2012_11_54_58_3.jpg
+DSE/images/autosave02_10_2012_11_55_17_3.jpg
+DSE/images/autosave02_10_2012_11_55_21_2.jpg
 DSE/images/autosave02_10_2012_11_55_25_1.jpg
 DSE/images/autosave02_10_2012_11_55_30_1.jpg
 DSE/images/autosave02_10_2012_11_56_00_1.jpg
