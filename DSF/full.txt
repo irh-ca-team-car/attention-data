@@ -1,8 +1,3 @@
-/mnt/DATA/home/public/datasets/attention-data/DSF/images/0000000099.jpg
-/mnt/DATA/home/public/datasets/attention-data/DSF/images/10.jpg
-/mnt/DATA/home/public/datasets/attention-data/DSF/images/100.jpg
-/mnt/DATA/home/public/datasets/attention-data/DSF/images/102.jpg
-/mnt/DATA/home/public/datasets/attention-data/DSF/images/103.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSF/images/104.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSF/images/105.jpg
 /mnt/DATA/home/public/datasets/attention-data/DSF/images/106.jpg
