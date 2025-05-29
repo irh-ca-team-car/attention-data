@@ -9,7 +9,20 @@ https://bdd-data.berkeley.edu/
 Parts of the image in UQTR were taken and labeled from RTSD
 http://graphics.cs.msu.ru/en/research/projects/rtsd
 
-If you use our dataset, please also cite the following
+If you use our dataset
+```bibtex
+@article{boisclair2022attention,
+  title={Attention transfer from human to neural networks for road object detection in winter},
+  author={Boisclair, Jonathan and Kelouwani, Sousso and Ayevide, Follivi Kloutse and Amamou, Ali and Alam, Muhammad Zeshan and Agbossou, Kodjo},
+  journal={IET image processing},
+  volume={16},
+  number={13},
+  pages={3544--3556},
+  year={2022},
+  publisher={Wiley Online Library}
+}
+```
+please also cite the following
 ```bibtex
 @article{bdd,
    author = {Fisher, Yu and Wenqi, Xian and Yingying, Chen and Fangchen, Liu and Mike, Liao and Vashisht, Madhavan and Trevor, Darrell},
